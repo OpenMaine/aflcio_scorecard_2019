@@ -34,7 +34,7 @@ export default function LegislatorCard(props) {
         <div className="mpa-score">
           <ScoreBar score={orgscore} />
           <div className="score-bar-sub-text">
-            <b>2018 Score:</b> {`${abbreviatedChamberTitle(legislator)} ${name.lastName}'s alignment with our values this legislative session.`}
+            <b>2019 Score:</b> {`${abbreviatedChamberTitle(legislator)} ${name.fullName}'s alignment with our values this legislative session.`}
           </div>
         </div>
         <div className="view-voting-record">

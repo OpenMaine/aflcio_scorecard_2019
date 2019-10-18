@@ -43,13 +43,9 @@ export default function LegislatorDetail({ match }) {
             </div></div>
             <div className="col-xs-12 col-sm-5 col-sm-offset-1"><div className="box term-info"><div className="row">
               <div className="col-xs-6"><div className="box">
-                <div className="title">Term limited</div>
-                <div className="description">{term_limited}</div>
-              </div></div>
+                </div></div>
               <div className="col-xs-6"><div className="box">
-                <div className="title">Up for re-election</div>
-                <div className="description">{upForReelection}</div>
-              </div></div>
+                </div></div>
             </div></div></div>
           </div>
         </section>
@@ -57,10 +53,10 @@ export default function LegislatorDetail({ match }) {
         <section className="scores">
           <div className="row">
             <div className="col-xs-12 col-md-5"><div className="mpa-score box">
-              <h1>2018 Score</h1>
+              <h1>2019 Score</h1>
               <ScoreBar score={orgscore} />
               <div className="score-bar-sub-text">
-                {`${abbreviatedChamberTitle(legislator)} ${name.lastName}'s alignment with our values this legislative session.`}
+                {`${abbreviatedChamberTitle(legislator)} ${name.fullName}'s alignment with our values this legislative session.`}
               </div>
             </div>
             </div>

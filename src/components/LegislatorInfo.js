@@ -21,6 +21,8 @@ export default function LegislatorInfo(props) {
     url,
     phone,
     email,
+    districtNum,
+    towns
   } = legislator
 
   const isSuperCompact = superCompact
@@ -29,9 +31,12 @@ export default function LegislatorInfo(props) {
 
   const title = includeTitle ? abbreviatedChamberTitle(legislator) : null
 
-  const photo_url = '/legislator-photos/'
-    + legislator.ocdId.replace(/^.+\//, '').replace(':', '.')
-    + '.jpg'
+  // const photo_url = '/legislator-photos/'
+  //   + legislator.ocdId.replace(/^.+\//, '').replace(':', '.')
+  //   + '.jpg'
+
+
+  const photo_url = legislator.photo_url
   const avatar_styles = { backgroundImage: `url('${photo_url}')`}
 
   return (
@@ -45,8 +50,9 @@ export default function LegislatorInfo(props) {
             <Link to={legislatorPath(legislator)}>{title} {name.fullName}</Link>
           </div>
           <div className="legislator-subtitle">
-            <span>{party}&ndash;{legal_residence}</span>
+            <span> District {districtNum} &ndash; {party}</span>
           </div>
+
         </div>
       </div></div>
       { !isSuperCompact &&
@@ -56,9 +62,6 @@ export default function LegislatorInfo(props) {
               <img src={iconLink} alt="link" />
             </a>
           }
-          <LegislatorAction className="legislator-action" href={`tel:${phone}`}>
-            <img src={iconPhone} alt="phone" />
-          </LegislatorAction>
           <a className="legislator-action" href={`mailto:${email}`} target="_blank" rel="noopener noreferrer">
             <img src={iconEmail} alt="email" />
           </a>
