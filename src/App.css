@@ -523,13 +523,16 @@ input.popover-input {
 /* Legislators Page */
 
 .legislators .zero-state-message {
-  margin-top: 7rem;
-  margin-bottom: 2rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
   display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
+  font-size: 18px;
+  text-align: left;
   color: #444;
+}
+
+.legislators .zero-state-message a {
+  color: #115e68; padding: 0 5px; 
 }
 
 @media only screen and (max-width: 48em) {
