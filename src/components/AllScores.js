@@ -22,7 +22,7 @@ const scoreOptions = [
 
 const partyOptions = [
   { value: '', label: 'All Parties' },
-  { value: 'Democrat', label: 'Democrats' },
+  { value: 'Democratic', label: 'Democrats' },
   { value: 'Republican', label: 'Republicans' },
   { value: 'Independent', label: 'Independents' },
   { value: 'Unenrolled', label: 'Green' },
