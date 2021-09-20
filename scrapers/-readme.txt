@@ -252,13 +252,13 @@ You can also download a bunch of stuff here:
 	https://api.legiscan.com/?key=1e80ba158a1e3d78f832609310a4ede2&op=getMasterList&id=1635
 
 
-// GET INFO FOR A PARTICULAR BILL
+// GET VOTES FOR A PARTICULAR BILL
 	"An Act To Expand Options for Consumers of Cable Television in Purchasing Individual Channels and Programs" (LD832) 
 	- LegiScan ID #1200320
 	https://api.legiscan.com/?key=1e80ba158a1e3d78f832609310a4ede2&op=getBill&id=1200320
 
 
-// GET INFO FOR A PARTICULAR VOTE
+// GET LEGISLATORS FOR A PARTICULAR VOTE
 	"Acc Maj Ought To Pass Rep RC #132" (2019-05-28) - LegiScan ROLL CALL ID: 873553
 	https://api.legiscan.com/?key=1e80ba158a1e3d78f832609310a4ede2&op=getRollCall&id=873553
 
