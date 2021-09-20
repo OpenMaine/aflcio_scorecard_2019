@@ -1,0 +1,153 @@
+district,firstName,LastName,of,town,party,LD1177,LD1658,LD1459,LD1282,LD1232,LD240,LD1564,LD1524,LD1560,LD369,score,rating,skip,absences
+1,Deane,Rykerson,of,Kittery,D,Y,Y,A,Y,Y,A,Y,Y,Y,Y,8,80%,n/a,
+2,Michele,Meyer,of,Eliot,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+3,Lydia,Blume,of,York,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+4,Patricia,Hymanson,of,York,D,N,Y,N,Y,Y,N,Y,Y,Y,Y,7,70%,n/a,
+5,Beth,O'Connor,of,Berwick,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,
+6,Tiffany,Roberts-Lovell,of,South Berwick,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+7,Daniel,Hobbs,of,Wells,D,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,9,90%,n/a,
+8,Christopher,Babbidge,of,Kennebunk,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+9,Diane,Denk,of,Kennebunk,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,5/16/2019
+10,Henry,Ingwersen,of,Arundel,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,E,9,100%,n/a,"April 30 and May 2, 7, 8 and 9"
+11,Ryan,Fecteau,of,Biddeford ,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+12,Victoria,Foley,of,Biddeford,D,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,9,90%,n/a,16-May
+13,Lori,Gramlich,of,Old Orchard Beach,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+14,Donna,Bailey,of,Saco ,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,June 13 and 14
+15,Margaret,O'Neil,of,Saco,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+16,Donald,Marean,of,Hollis,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,May 16th
+17,Dwayne,Prescott,of,Waterboro,R,N,N,Y,N,N,N,N,N,Y,N,2,20%,n/a,
+18,Anne-Marie,Mastraccio,of,Sanford ,D,N,N,Y,Y,Y,N,Y,Y,Y,Y,7,70%,n/a,
+19,Matthew,Harrington,of,Sanford,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,30-Apr
+20,Theodore,Kryzak,of,Acton,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,May 14th 
+21,Heidi,Sampson,of,Alfred,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,
+22,Mark,Blier,of,Buxton,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,
+23,Lester,Ordway,of,Standish,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,
+24,Mark,Bryant,of,Windham,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+25,Patrick,Corey,of,Windham,R,N,N,N,N,N,N,N,N,Y,Y,2,20%,n/a,
+26,Maureen,Terry,of,Gorham,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+27,Andrew,McLean,of,Gorham,D,Y,Y,E,A,Y,Y,Y,A,Y,Y,7,78%,n/a,"5/23/19, 5/29/19"
+28,Christopher,Caiazzo,of,Scarborough,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+29,Shawn,Babine,of,Scarborough,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,30-Apr
+30,Anne,Carney,of,Cape Elizabeth,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,25-Apr
+31,Lois,Reckitt,of,South Portland,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a, 
+32,Christopher,Kessler,of,South Portland ,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+33,Victoria,Morales,of,South Portland,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+34,Drew,Gattine,of,Westbrook ,D,Y,A,Y,Y,Y,Y,Y,Y,A,Y,8,80%,n/a,
+35,Ann,Peoples,of,Westbrook,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,"April 16, 18, 23, 25 and 30"
+36,Michael,Brennan,of,Portland,D,N,Y,Y,Y,Y,N,Y,Y,Y,Y,8,80%,n/a,
+37,Richard,Farnsworth,of,Portland,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+38,Matthew,Moonen,of,Portland,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+39,Michael,Sylvester,of,Portland,D,Y,E,Y,Y,Y,Y,Y,Y,E,Y,8,100%,n/a,6/6/2019
+40,Rachel,Talbot Ross,of,Portland,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,E,9,100%,n/a,4/30/19 5/2/19 5/7/19 5/8/19 5/9/19
+41,Erik,Jorgensen,of,Portland ,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,25-Apr
+42,Benjamin,Collings,of,Portland,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+43,W.,Crockett,of,Portland,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,6/3/2019
+44,Teresa,Pierce,of,Falmouth,D,N,Y,Y,Y,Y,N,Y,Y,Y,Y,8,80%,n/a,May 16th 
+45,Stephen,Moriarty,of,Cumberland,D,Y,E,E,E,E,E,E,E,E,E,1,100%,n/a,
+46,Braden,Sharpe,of,Durham,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+47,Janice,Cooper,of,Yarmouth,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+48,Sara,Gideon,of,Freeport,D,Y,Y,Y,A,Y,Y,Y,Y,Y,Y,9,90%,n/a,
+49,Matthea,Daughtry,of,Brunswick,D,Y,Y,Y,Y,A,Y,Y,E,Y,E,7,88%,n/a,"5/8/2019, 6/7/19"
+50,Ralph,Tucker,of,Brunswick,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+51,Joyce,McCreight,of,Harpswell,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,30-Apr
+52,Sean,Paulhus,of,Bath,D,Y,Y,Y,Y,Y,Y,E,Y,Y,Y,9,100%,n/a,"4/23/2019, 5/28/19, 5/29/19 5/30/19"
+53,Allison,Hepler,of,Woolwich,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+54,Denise,Tepler,of,Topsham,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+55,Seth,Berry,of,Bowdoinham,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+56,Richard,Mason,of,Lisbon,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,
+57,Thomas,Martin,of,Greene,R,N,N,N,N,N,E,N,N,Y,N,1,11%,n/a,"5/29/2019, June 11"
+58,James,Handy,of,Lewiston,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+59,Margaret,Craven,of,Lewiston,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+60,Kristen,Cloutier,of,Lewiston,D,N,Y,E,Y,Y,N,Y,Y,Y,Y,7,78%,n/a,5/23/2019
+61,Heidi,Brooks,of,Lewiston,D,E,E,E,E,E,Y,E,E,E,E,1,100%,n/a,"June 18, 19 20 April 30 and May 2, 7, 8, and 9"
+62,Gina,Melaragno,of,Auburn,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+63,Bruce,Bickford,of,Auburn,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,
+64,Bettyann,Sheats,of,Auburn,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+65,Amy,Arata,of,New Gloucester,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,
+66,Jessica,Fay,of,Raymond,D,Y,N,Y,Y,Y,Y,Y,Y,Y,Y,9,90%,n/a,June 17th
+67,Susan,Austin,of,Gray,R,N,N,N,N,N,N,N,N,Y,Y,2,20%,n/a,
+68,Richard,Cebra,of,Naples,R,E,N,E,N,N,N,N,N,Y,N,1,13%,n/a, June 19 and 20 5/28/2019
+69,Walter,Riseman,of,Harrison,I,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+70,Nathan,Wadsworth,of,Hiram,R,N,N,N,N,N,N,N,A,Y,N,1,10%,n/a,
+71,H.,Millett,of,Waterford,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,5/16/2019
+72,Kathleen,Dillingham,of,Oxford,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,5/16/2019
+73,John,Andrews,of,Paris,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,
+74,Christina,Riley,of,Jay,D,Y,Y,Y,Y,Y,Y,Y,Y,A,Y,9,90%,n/a,April 2 and 18th April 25
+75,Joshua,Morris,of,Turner,R,N,N,N,N,N,N,N,N,Y,Y,2,20%,n/a,
+76,Dennis,Keschl,of,Belgrade ,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,
+77,Michael,Perkins,of,Oakland,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,May 9th
+78,Catherine,Nadeau,of,Winslow,D,N,Y,N,A,Y,N,Y,Y,Y,Y,6,60%,n/a,
+79,Timothy,Theriault,of,China,R,N,A,N,A,A,N,E,Y,Y,N,2,22%,n/a,"5/7/19 4/23/19 4/25/19 5/30/19 6/4/19, June 11"
+80,Richard,Bradstreet,of,Vassalboro,R,N,N,N,N,N,N,N,N,Y,Y,2,20%,n/a,
+81,Craig,Hickman,of,Winthrop,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+82,Kent,Ackley,of,Monmouth,C,Y,Y,Y,Y,Y,A,Y,Y,Y,Y,9,90%,No, 
+83,Thom,Harnett,of,Gardiner,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,May 14th 
+84,Charlotte,Warren,of,Hallowell,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,April 16th
+85,Donna,Doore,of,Augusta,D,Y,E,Y,Y,E,Y,Y,Y,E,E,6,100%,n/a,"May8  26, 28, 29 April 2, 4, 11, 16, 18, 23, 25"
+86,Justin,Fecteau,of,Augusta,R,N,N,N,N,N,N,N,E,Y,Y,2,22%,n/a,7-Jun
+87,Jeffery,Hanley,of,Pittston,R,N,N,N,N,N,N,E,N,Y,N,1,11%,n/a,5/30/2019
+88,Chloe,Maxmin,of,Nobleboro,D,Y,Y,Y,Y,E,Y,Y,Y,A,Y,8,89%,n/a,21-May
+89,Holly,Stover,of,Boothbay,D,Y,Y,Y,Y,Y,N,Y,A,Y,Y,8,80%,n/a,5/7/2019
+90,Michael,Devin,of,Newcastle,D,E,E,E,E,E,E,E,E,E,E,0,#DIV/0!,n/a,
+91,Jeffrey,Evangelos,of,Friendship,I,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,9,90%,n/a,
+92,Ann,Matlack,of,St. George ,D,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,9,90%,n/a,
+93,Pinny,Beebe-Center,of,Rockland,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+94,Victoria,Doudera,of,Camden,D,Y,Y,Y,Y,Y,N,Y,E,Y,Y,8,89%,n/a,7-Jun
+95,William,Pluecker,of,Warren,I,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,9,90%,n/a,
+96,Stanley,Zeigler,of,Montville,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+97,Janice,Dodge,of,Belfast,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+98,Scott,Cuddy,of,Winterport,D,Y,Y,E,Y,Y,Y,Y,Y,Y,Y,9,100%,n/a,"4/23/2019, 5/9/19, 5/23/19"
+99,MaryAnne,Kinney,of,Knox ,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,April 23 and 25
+100,Danny,Costain,of,Plymouth,R,N,N,A,N,N,N,N,N,Y,N,1,10%,n/a,
+101,David,Haggan,of,Hampden,R,N,N,N,N,N,N,N,N,Y,A,1,10%,n/a,
+102,Abigail,Griffin,of,Levant,R,N,N,N,N,N,N,E,N,Y,N,1,11%,n/a,4/30/19 5/30/19
+103,Roger,Reed,of,Carmel,R,N,N,E,N,N,N,N,N,Y,N,1,11%,n/a,5/23/2019
+104,Steven,Foster,of,Dexter,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,
+105,Joel,Stetkis,of,Canaan,R,N,N,N,N,N,N,N,E,Y,N,1,11%,n/a,7-Jun
+106,Scott,Strom,of,Pittsfield,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,6/11/2019
+107,Betty,Austin,of,Skowhegan,D,Y,Y,Y,Y,Y,A,Y,Y,Y,Y,9,90%,n/a,
+108,Shelley,Rudnicki,of,Fairfield,R,N,N,N,N,N,N,N,N,N,N,0,0%,n/a,
+109,Bruce,White,of,Waterville,D,Y,Y,Y,A,Y,Y,Y,Y,Y,Y,9,90%,n/a,
+110,Colleen,Madigan,of,Waterville ,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+111,Philip,Curtis,of,Madison,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,
+112,Thomas,Skolfield,of,Weld,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,
+113,H.,Landry,of,Farmington,D,Y,Y,N,A,Y,Y,Y,Y,Y,Y,8,80%,n/a,
+114,Randall,Hall,of,Wilton,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,
+115,Josanne,Dolloff,of,Rumford,R,N,N,N,N,N,N,N,E,Y,N,1,11%,n/a,"5/28/2019, June 7"
+116,Richard,Pickett,of,Dixfield,R,N,N,E,N,N,N,N,N,Y,N,1,11%,n/a,5/23/2019
+117,Frances,Head,of,Bethel ,R,N,N,N,N,N,N,N,N,Y,E,1,11%,n/a,May 8th
+118,Chad,Grignon,of,Athens ,R,A,N,A,A,A,A,A,A,Y,A,1,10%,n/a,"April 11, 16, 23, 25 30"
+119,Paul,Stearns,of,Guilford,R,N,N,N,N,N,N,N,N,Y,Y,2,20%,n/a,25-Apr
+120,Norman,Higgins,of,Dover-Foxcroft,I,N,A,N,N,N,N,N,Y,A,Y,2,20%,n/a,30-Apr
+121,Gary,Drinkwater,of,Milford,R,N,N,N,N,N,N,N,Y,Y,N,2,20%,n/a,14-May
+122,Michelle,Dunphy,of,Old Town,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+123,Ryan,Tipping,of,Orono,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+124,Joe,Perry,of,Bangor,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+125,Victoria,Kornfield,of,Bangor ,D,N,Y,Y,Y,Y,N,Y,Y,Y,Y,8,80%,n/a,
+126,John,Schneck,of,Bangor,D,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,9,90%,n/a,
+127,Barbara,Cardone,of,Bangor,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+128,Arthur,Verow,of,Brewer,D,Y,E,Y,A,Y,E,Y,E,E,Y,5,83%,n/a,"June 6, 7, 10, 11, 12"
+129,Peter,Lyford,of,Eddington,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,"April 23 and 25 and May 9th 16th, june 14th"
+130,Richard,Campbell,of,Orrington,R,N,N,A,N,A,N,N,A,Y,A,1,10%,n/a,
+131,Sherman,Hutchins,of,Penobscot,R,N,N,N,N,N,N,N,N,Y,E,1,11%,n/a,May 8th and April 30th
+132,Nicole,Grohoski,of,Ellsworth ,D,Y,Y,Y,Y,Y,A,Y,Y,Y,Y,9,90%,n/a,
+133,Sarah,Pebworth,of,Blue Hill,D,Y,Y,Y,Y,Y,Y,Y,E,Y,Y,9,100%,n/a,June 7th
+134,Genevieve,McDonald,of,Stonington,D,Y,Y,Y,Y,Y,N,Y,Y,Y,Y,9,90%,n/a,"4/30/2019, 6/4/19"
+135,Brian,Hubbell,of,Bar Harbor ,D,N,Y,Y,Y,Y,N,Y,Y,Y,Y,8,80%,n/a,
+136,Billy Bob,Faulkingham,of,Winter Harbor,R,N,N,N,A,N,N,N,N,Y,N,1,10%,n/a,23-Apr
+137,Lawrence,Lockman,of,Amherst,R,N,N,N,N,N,N,N,N,N,N,0,0%,n/a,
+138,Robert,Alley,of,Beals,D,Y,Y,N,Y,A,Y,Y,Y,Y,Y,8,80%,n/a,
+139,William,Tuell,of,East Machias,R,N,N,N,N,N,N,N,N,Y,Y,2,20%,n/a,
+140,Anne,Perry,of,Calais,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,25-Apr
+141,Kathy,Javner,of,Chester,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,
+142,Sheldon,Hanington,of,Lincoln ,R,N,N,N,N,N,E,N,N,Y,N,1,11%,n/a,"4/18/19 5/14/19, June 11"
+143,Stephen,Stanley,of,Medway,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+144,Gregory,Swallow,of,Houlton,R,N,N,N,N,N,N,N,N,Y,N,1,10%,n/a,16-May
+145,Chris,Johansen,of,Monticello,R,N,N,N,N,N,N,N,N,N,N,0,0%,n/a,
+146,Dustin,White,of,Washburn,R,N,N,N,N,N,N,N,N,N,N,0,0%,n/a,
+147,Harold,Stewart,of,Presque Isle,R,Y,N,N,N,N,N,N,N,Y,N,2,20%,n/a,
+148,David,McCrea,of,Fort Fairfield,D,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,10,100%,n/a,
+149,John,DeVeau,of,Caribou,R,N,A,E,N,E,A,A,A,A,N,0,0%,n/a,"April 16, 18, 23 and 25, May 21 and 23"
+150,Roland,Martin,of,Sinclair,D,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,9,90%,n/a,4/11/19 4/16/19 4/18/19 4/23/19 5/28/19
+151,John,Martin,of,Eagle Lake,D,N,Y,Y,Y,Y,Y,Y,Y,Y,Y,9,90%,n/a,
+,,,, ,,,,,,,,,,,,,,,
