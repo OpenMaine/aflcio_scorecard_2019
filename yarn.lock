@@ -7396,7 +7396,7 @@ react-simple-popover@^0.2.4:
     react-dom "^16.2.0"
     react-overlays "^0.8.3"
 
-react-snap@^1.13.0:
+react-snap@^1.23.0:
   version "1.23.0"
   resolved "https://registry.yarnpkg.com/react-snap/-/react-snap-1.23.0.tgz#bf857a1810cd1ec8f9c54f5746568bccfb7447e5"
   integrity sha512-spmg2maHSedLrn6QBAfLJkyMqeeffLTIs7h40pS1copW2xBrajx4HEAcanm+7IVGO6SYCPoGwvbU3U30UFN25g==
